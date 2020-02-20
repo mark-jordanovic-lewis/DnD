@@ -20,6 +20,8 @@ existence of the mundane and his protectorate of it drive him forward. And necro
 - Language: Elven, Sylvan, Common
 
 ### Ranger class - lvl 8
+Proficiency Bonus: +3
+
 ##### lvl 1
 - 5d10 hit dice
 - HP: 10 + cons mod + 4*( d10 + cons mod)
@@ -94,11 +96,33 @@ existence of the mundane and his protectorate of it drive him forward. And necro
     - Pass without a trace
 ##### Slots
 - 1st level: 4
-- 2nd level: 
+- 2nd level: 3
 
  
-### Equipment
+### Equipment - but none in the jail
 - Dungeoneers pack
 - Longbow, 20 Arrows 1d8 piercing (range 150/600)
 - Leather Armour
 - 2 Rapier 1d8 piercing
+
+### Skills
+
+|      skill      | mod |      skill       | mod |     skill     | mod |
+|-----------------|-----|------------------|-----|---------------|-----|
+| Athletics*      | +5  | Investigation    | +0  | Perception*   | +7  |
+| Acrobatics      | +5  | Nature           | +0  | Survival*     | +7  |
+| Sleight of Hand | +5  | Religion         | +0  | Deception     | +0  |
+| Stealth*        | +8  | Animal Handling* | +7  | Intimidation  | +0  |
+| Arcana          | +0  | Insight          | +4  | Performance   | +0  |
+| History         | +0  | Medicine         | +4  | Persuasion    | +0  |
+
+### Abilities
+
+| Attr |    Val    | Mod  |
+|------|-----------|------| 
+| Str  | 15        |  +2  |
+| Int  | 10        |   0  |
+| Dex  | 20 (18+2) |  +5  |
+| Wis  | 18 (17+1) |  +4  |
+| Cha  | 10        |   0  |
+| Con  | 16        |  +3  |
